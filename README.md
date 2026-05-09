@@ -31,7 +31,7 @@ actual_vs_predicted.png
 Input files:
 
 ```text
-neurips_2025.sty
+neurips_2026.sty
 epa_automotive_trends_1975_2024.csv
 ```
 
